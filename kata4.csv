@@ -1,0 +1,6 @@
+arr = [];i = -1;i >= -25;i--;arr.push(i)
+arr = [-25];i = -25;true;-1;arr.push(-25)
+arr = [-25, -24];i = -24;true;-2;arr.push(-24)
+arr = [-25, -24,-23];i = -23;true;-3;arr.push(-23)
+arr = [-25, -24 ,-23 ,-22];i = -22;true;-4;arr.push(-22)
+arr = [-25,-24,-23,-22,-21];i = -21;true;-5;arr.push(-21)

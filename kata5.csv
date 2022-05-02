@@ -1,0 +1,6 @@
+arr = [];i = 25;i >= 25;i--;arr.push(i)
+arr = [25];i = 25;true;25;arr.push(25)
+arr = [25, 23];i = 23;true;23;arr.push(23)
+arr = [25, 23,21];i = 21;true;21;arr.push(21)
+arr = [25, 23 ,21 ,19];i = 19;true;19;arr.push(19)
+arr = [25,23,21,19,17];i = 17;true;17;arr.push(17)
